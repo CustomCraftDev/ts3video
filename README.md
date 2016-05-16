@@ -1,12 +1,23 @@
 ![Logo](https://mfreiholz.de/ts3video/img/logo-48x48.png)
 
-# TS3VIDEO
+A free and easy to use video conferencing plugin for Teamspeak 3.
 
-Main repository for TS3VIDEO related stuff.
+## Repository and Code
 
-# Related repositories
+This is the public repository of the currently private code of the project.
+I _may_ release the code to public some day.
 
-- https://github.com/mfreiholz/ts3video-homepage
-- https://github.com/mfreiholz/ocs-deploy
-- https://github.com/mfreiholz/ocs-ts3clientpluginsdk
-- https://github.com/mfreiholz/ocs-vpx
+
+All features and bugs are tracked by the [issue-system](https://github.com/mfreiholz/ts3video/issues) of this repository.
+
+
+The real code name for the project is: __OCS__
+
+In some places I will use this short hand instead of _TS3VIDEO_.
+
+## Downloads and Docs
+
+The newest releases and it's documentation is always available on the project's website:
+
+https://mfreiholz.de/ts3video
+
